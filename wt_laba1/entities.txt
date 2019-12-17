@@ -1,0 +1,6 @@
+Animals
+HorseWithNoName;20;100kg
+Races
+159;1;3;5
+Bets
+159;HorseWithNoName;100500
